@@ -163,7 +163,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![book cover1](https://github.com/keerthanasivakumar02/cover/assets/150827397/8facf2b6-a0aa-41ee-99ae-cb731c424156)
+
+![bookcover2](https://github.com/keerthanasivakumar02/cover/assets/150827397/7878b39e-f1ad-4810-9ef1-2f15c30031e1)
 
 
 
